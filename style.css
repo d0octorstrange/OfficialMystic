@@ -1,0 +1,59 @@
+body{
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+      background-color: black;
+      background-image: url(https://wallpapercave.com/wp/wp2028630.jpg);
+      font-family: arial, helvetica, sans-serif
+}
+a{
+    color: bisque;
+}
+.box{
+    width: 450px; /* Set the desired width */
+    background-color: rgba(80, 78, 94, 0.612); /* Transparent black background (adjust the alpha value to change transparency) */
+    backdrop-filter: blur(5px); /* Apply a blur effect to the background */
+    padding: 100px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+    header img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 5px solid red
+    }
+    .center {
+        text-align: center;
+    }
+    .center-img{
+        border-radius: 50%;
+        width: 195px;
+        height: 200px;
+    }
+    h1{
+        color: brown;
+    }
+    footer img{
+        width: 40px;
+        height: 40px;
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-top: 2px;
+    }
+    footer a{
+        margin: 20px;
+    }
+    footer img{
+        margin-top: 1px;
+    }
+    hr{
+        margin-top: 0%;
+    }
