@@ -11,7 +11,7 @@ a{
     color: bisque;
 }
 .box{
-    width: 450px; /* Set the desired width */
+    width: 600px; /* Set the desired width */
     background-color: rgba(80, 78, 94, 0.612); /* Transparent black background (adjust the alpha value to change transparency) */
     backdrop-filter: blur(5px); /* Apply a blur effect to the background */
     padding: 100px;
